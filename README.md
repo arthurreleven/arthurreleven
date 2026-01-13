@@ -4,9 +4,9 @@
 - 📖 Estudando Typescript
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username rafaballerini2&layout-compactälangs_count=16&theme-dark"/>
+  <a href="https://github.com/arthurreleven">
+  <img height="180em" src="https://github-readme-stats-virid-beta-29.vercel.app/api?username=arthurreleven&show_icons=true&theme=dark&include_all_commits=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats-virid-beta-29.vercel.app/api/top-langs/?username=arthurreleven&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
