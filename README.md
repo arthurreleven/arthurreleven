@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Arthur Luiz
 
 - 💻 Hoje busco um trabalho como back-end
-- 📖 Estudando TypeScript
+- 📖 Estudando Java
 
 <div>
   <a href="https://github.com/arthurreleven">
