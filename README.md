@@ -1,13 +1,7 @@
 ## Olá! Eu sou o Arthur Luiz
 
-- 💻 Hoje busco um trabalho como back-end
+- 💻 Hoje busco um trabalho como desenvolvedor back-end
 - 📖 Estudando Java
-
-<div>
-  <a href="https://github.com/arthurreleven">
-  <img height="180em" src="https://github-readme-stats-virid-beta-29.vercel.app/api?username=arthurreleven&show_icons=true&theme=dark&include_all_commits=true&count_private=true)"/>
-  <img height="180em" src="https://github-readme-stats-virid-beta-29.vercel.app/api/top-langs/?username=arthurreleven&layout=compact&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
